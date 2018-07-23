@@ -1,0 +1,76 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="http://truetankimen.github.io" resolutions="1x" timestamp="1532369739056">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="main-video.css" crc="126718831" ref="main-video"/>
+    <file name="index.css" crc="19459862" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="info.mp4" crc="4272373590" seo="true" mt="1532353410000"/>
+    <file name="info.png" crc="4087502271" seo="true" mt="1532354715000"/>
+    <file name="info.webm" crc="3789329043" seo="true" mt="1532354300000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:main-video"/>
+    <file name="museutils.js" crc="163421577" ref="index:main-video"/>
+    <file name="whatinput.js" crc="86476730" ref="index:main-video"/>
+    <file name="museconfig.js" crc="168988563" ref="index:main-video"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:main-video"/>
+    <file name="webpro.js" crc="3848665353" ref="index"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="index"/>
+    <file name="touchswipe.js" crc="404375771" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index:main-video"/>
+  </folder>
+  <folder name="images">
+    <file name="ginza-place-transparent-led-.jpg" crc="4117467430" ref="index"/>
+    <file name="logo-u105.png" crc="3770106947" ref="index"/>
+    <file name="slider2.jpg" crc="4139688037" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="slider3.jpg" crc="346829474" seo="true" ref="index"/>
+    <file name="slider4.jpg" crc="3929871147" seo="true" ref="index"/>
+    <file name="slider5.jpg" crc="137163968" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="info1.jpg" crc="346013517" ref="index"/>
+    <file name="info.png" crc="3932146929" ref="index"/>
+    <file name="u576-13.png" crc="3903308206" ref="index"/>
+    <file name="u650-9.png" crc="476129905" ref="index"/>
+    <file name="istock_000018333865medium.jpg" crc="4149434258" ref="index"/>
+    <file name="u468-4.png" crc="3843182303" ref="index"/>
+    <file name="building-facade-strip-curtain-led-display-russian-flag-420x315.jpg" crc="3944200231" ref="index"/>
+    <file name="led-column-3d-design-for-led-display-indoor-architectural-screen.jpg" crc="4157051474" ref="index"/>
+    <file name="oled-display-high-screen-music-instrument-420x315.jpg" crc="3891189714" ref="index"/>
+    <file name="schematic-display-led-sculpture-420x315.jpg" crc="30301935" ref="index"/>
+    <file name="screen-flexible-led-curved-display-yellow-duckling-420x315.jpg" crc="133340781" ref="index"/>
+    <file name="screen-led-ceiling-display-pink-tree-420x315.jpg" crc="69181132" ref="index"/>
+    <file name="transparent-flexible-led--420x315.jpg" crc="103432455" ref="index"/>
+    <file name="transparent-led-building-facade-display-420x315.jpg" crc="298752905" ref="index"/>
+    <file name="cactus.jpg" crc="491424337" seo="true" ref="index"/>
+    <file name="road.jpg" crc="180693847" seo="true" ref="index"/>
+    <file name="trees.jpg" crc="4071309946" seo="true" ref="index"/>
+    <file name="left-u869-3-fr.png" crc="3969658658" ref="index"/>
+    <file name="right-u867-3-fr.png" crc="4247823389" ref="index"/>
+    <file name="u951-6.png" crc="98810520" ref="index"/>
+    <file name="u973-4.png" crc="157831082" ref="index"/>
+    <file name="process-2.png" crc="4048532175" ref="index"/>
+    <file name="u1045-6.png" crc="3972604946" ref="index"/>
+    <file name="process-1.png" crc="260290091" ref="index"/>
+    <file name="process-3.png" crc="71857597" ref="index"/>
+    <file name="u1042-6.png" crc="62506243" ref="index"/>
+    <file name="u1048-6.png" crc="4094224509" ref="index"/>
+    <file name="process-6.png" crc="4220793435" ref="index"/>
+    <file name="u1052-6.png" crc="3944793217" ref="index"/>
+    <file name="process-4.png" crc="3792555426" ref="index"/>
+    <file name="process-5.png" crc="3978158110" ref="index"/>
+    <file name="u1051-6.png" crc="3953003224" ref="index"/>
+    <file name="u1053-6.png" crc="441233170" ref="index"/>
+    <file name="u1075-4.png" crc="426707594" ref="index"/>
+    <file name="team-mem4.png" crc="4011728317" ref="index"/>
+    <file name="team-mem3.png" crc="3928881378" ref="index"/>
+    <file name="team-mem1.png" crc="4236660523" ref="index"/>
+    <file name="team-mem2.png" crc="17312022" ref="index"/>
+    <file name="безымянный.jpg" crc="4250264459" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3954304590" seo="true" mt="1532362466347" redirect="true"/>
+  <file name="main-video.html" crc="4177892108" seo="true" mt="1532354909348" redirect="true"/>
+</manifest>
